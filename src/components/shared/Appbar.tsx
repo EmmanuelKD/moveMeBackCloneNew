@@ -33,7 +33,7 @@ const appbarOptions: {
         link: "/community"
     }
         , {
-        title: "Partners & Friennds",
+        title: "Partners & Friends",
         link: "/partners"
     }
         , {
